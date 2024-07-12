@@ -15,14 +15,14 @@ Level creating / block placing tool with a cartoony art style.
 
 
 Notable features:
-- 
+
 
 
 
 ## Adventure Game
 Open-World Handcrafted 2D RPG with a cozy overworld feel.
 
-<img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/HERMES/preview.png" alt="screenshot of a game" width="100%"/>
+<img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/HERMES/preview.png" alt="screenshot of a game" width="100%"/> 
 
 Notable features:
 - Powerful **editor tools** to streamline the asset creation process (E.g. a tool that slices spritesheets into unity tiles (static or animated) without overwritting underlying tile assets).
