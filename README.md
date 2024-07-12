@@ -11,7 +11,7 @@
 ## Block Creator
 Level creating / block placing tool with a cartoony art style.
 
-<img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/SAND/preview.png" alt="screenshot of a game" width="100%"/>
+  <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/SAND/gameplay.gif" alt="gif of gameplay"/>
 
 
 Notable features:
