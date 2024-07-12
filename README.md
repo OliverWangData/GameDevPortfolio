@@ -15,6 +15,9 @@ Level creating / block placing tool with a cartoony art style.
 
 
 Notable features:
+- Grid-aligned block placement in a large 3d world.
+- Intuitive controls with helpful control guides.
+- Smooth, crisp feeling UI for a polished unintrusive feel.
 
 <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/SAND/gameplay.gif" alt="gif of gameplay" width="100%"/>
 <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/SAND/previewnight.png" alt="screenshot of a game" width="100%"/>
@@ -41,7 +44,7 @@ Coin pusher game with a large variety of coins, unlockables, balls, etc...
 ![screenshot of a game](https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/CHCH/preview.png)
 
 Notable features:
-- **GPU based instanced rendering** with carefully tuned physics parameters for high performance with hundreds of on screen coins, all colliding together.
+- GPU based instanced rendering with carefully tuned physics parameters for high performance with hundreds of on screen coins, all colliding together.
 - Smoothly tweened, dynamic, and portrait-mode friendly UI that can be adjusted for a wide array of phone aspect ratios.
 - Data-driven formulas and 3d assets that can be used to change values and rewards for game features without having to adjust and recompile code.
 
