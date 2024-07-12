@@ -25,13 +25,13 @@ Notable features:
 ## Adventure Game
 Open-World Handcrafted 2D RPG with a cozy overworld feel.
 
-![screenshot of a game](https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/HERMES/preview.png)
+<img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/HERMES/preview.png" alt="screenshot of a game" width="100%"/>
 
 Notable features:
 - Powerful editor tools to streamline the asset creation process (E.g. a tool that slices spritesheets into unity tiles (static or animated) based on designer-defined groups. These groups can be group-named and moved around without affecting the underlying tile asset. Allows for artists to reorganize and optimize spritesheet layout, and designers to mass-name certain tiles based on a pattern for game functionality).
 
 <div align="center">
-  <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/HERMES/tileslicer" alt="gif of slicer tool"/>
+  <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/HERMES/tileslicer.gif" alt="gif of slicer tool"/>
 </div>
 
 ## Many, Many More Prototypes...
