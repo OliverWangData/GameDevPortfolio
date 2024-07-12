@@ -44,7 +44,7 @@ Top Down 2D-HD-like game.
 
 Notable features:
 - Binary-tree attack system with dynamic data-driven abilities switching.
-- Animation events system that can be defined anywhere in a Unity animation and can asynchronously call methods.
+- Animation events system that can do an asynchronous method callback on any frame of a unity animation.
 - Ability cooldown system that uses the animation events to control attack states.
 
 
