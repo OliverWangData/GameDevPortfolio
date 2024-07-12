@@ -13,7 +13,7 @@ Coin pusher game with a large variety of coins, unlockables, balls, etc...
 Notable features:
 - **GPU based instanced rendering** with carefully tuned physics parameters for high performance with hundreds of on screen coins, all colliding together.
 - Smoothly tweened, dynamic, and portrait-mode friendly UI that can be adjusted for a wide array of phone aspect ratios.
-- Data-driven formulas that can be used to change values and rewards for game features without having to adjust and recompile code.
+- Data-driven formulas and 3d assets that can be used to change values and rewards for game features without having to adjust and recompile code.
 
 <div align="center">
   <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/CHCH/intro.gif" alt="gif of a new game start"/>
