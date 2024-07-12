@@ -16,7 +16,7 @@ Level creating / block placing tool with a cartoony art style.
 
 Notable features:
 
-<img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/SAND/gameplay.gif" alt="gif of gameplay"/>
+<img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/SAND/gameplay.gif" alt="gif of gameplay" width="100%"/>
 
 
 
