@@ -1,4 +1,4 @@
-# Game Development Portfolio
+# Solo Game Development Portfolio
 
 ## Common
 - Notification system
