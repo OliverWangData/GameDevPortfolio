@@ -16,10 +16,12 @@ Level creating / block placing tool with a cartoony art style.
 
 Notable features:
 - Grid-aligned block placement in a large 3d world.
+- In-game node based UI for custom block behaviours.
 - Intuitive controls with helpful control guides.
 - Smooth, crisp feeling UI for a polished unintrusive feel.
 
 <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/SAND/gameplay.gif" alt="gif of gameplay" width="100%"/>
+<img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/SAND/nodebehaviour" alt="screenshot of a game" width="100%"/>
 <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/SAND/previewnight.png" alt="screenshot of a game" width="100%"/>
 <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/SAND/previewpink.png" alt="screenshot of a game" width="100%"/>
 
