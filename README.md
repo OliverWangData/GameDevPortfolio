@@ -7,6 +7,29 @@
 - Input system in unity
 - Camera systems
 
+
+## Block Creator
+Level creating / block placing tool with a cartoony art style.
+
+
+Notable features:
+- 
+
+
+
+## Adventure Game
+Open-World Handcrafted 2D RPG with a cozy overworld feel.
+
+<img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/HERMES/preview.png" alt="screenshot of a game" width="100%"/>
+
+Notable features:
+- Powerful **editor tools** to streamline the asset creation process (E.g. a tool that slices spritesheets into unity tiles (static or animated) without overwritting underlying tile assets).
+
+<div align="center">
+  <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/HERMES/tileslicer.gif" alt="gif of slicer tool"/>
+</div>
+
+
 ##  ChunkyChips
 Coin pusher game with a large variety of coins, unlockables, balls, etc...
 
@@ -21,19 +44,6 @@ Notable features:
   <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/CHCH/intro.gif" alt="gif of a new game start"/>
   <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/CHCH/gameplay.gif" alt="gif of a new game start"/>
   <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/CHCH/ui.gif" alt="gif of a new game start"/>
-</div>
-
-
-## Adventure Game
-Open-World Handcrafted 2D RPG with a cozy overworld feel.
-
-<img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/HERMES/preview.png" alt="screenshot of a game" width="100%"/>
-
-Notable features:
-- Powerful **editor tools** to streamline the asset creation process (E.g. a tool that slices spritesheets into unity tiles (static or animated) without overwritting underlying tile assets).
-
-<div align="center">
-  <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/HERMES/tileslicer.gif" alt="gif of slicer tool"/>
 </div>
 
 
