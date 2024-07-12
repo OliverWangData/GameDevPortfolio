@@ -20,3 +20,6 @@ Notable features:
   <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/CHCH/gameplay.gif" alt="gif of a new game start"/>
   <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/CHCH/ui.gif" alt="gif of a new game start"/>
 </div>
+
+## Many more prototypes
+![screenshot of a game](https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/FLAT/preview.png)
