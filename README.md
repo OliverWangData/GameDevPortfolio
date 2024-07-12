@@ -21,6 +21,6 @@ Notable features:
   <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/CHCH/ui.gif" alt="gif of a new game start"/>
 </div>
 
-## Many more prototypes
+## Many, Many More Prototypes...
 ![screenshot of a game](https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/FLAT/preview.png)
 ![screenshot of a game](https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/FROG/preview.png)
