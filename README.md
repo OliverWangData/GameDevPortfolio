@@ -34,6 +34,16 @@ Notable features:
   <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/HERMES/tileslicer.gif" alt="gif of slicer tool"/>
 </div>
 
+
+## Top Down Game
+Top Down 2D-HD-like game.
+
+<img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PROJ/gameplay.gif" alt="screenshot of a game" width="100%"/>
+
+Notable features:
+- Powerful **editor tools** to streamline the asset creation process (E.g. a tool that slices spritesheets into unity tiles (static or animated) without overwritting underlying tile assets).
+
+
 ## Many, Many More Prototypes...
 ![screenshot of a game](https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/FLAT/preview.png)
 ![screenshot of a game](https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/FROG/preview.png)
