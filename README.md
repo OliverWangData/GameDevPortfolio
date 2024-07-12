@@ -48,7 +48,7 @@ Notable features:
 - Ability cooldown system that uses the animation events to control attack states.
 
 
-## And Many, Many More Prototypes...
+## And Many, Many More Concepts And Prototypes...
 ![screenshot of a game](https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/FLAT/preview.png)
 ![screenshot of a game](https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/FROG/preview.png)
 ![screenshot of a game](https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/HPCB/preview.png)
