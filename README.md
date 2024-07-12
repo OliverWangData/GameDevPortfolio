@@ -4,6 +4,8 @@
 - Notification system
 - CSV data pipeline
 - Addressables and dynamic async loading
+- Input system in unity
+- Camera systems
 
 ##  ChunkyChips
 Coin pusher game with a large variety of coins, unlockables, balls, etc...
@@ -41,7 +43,9 @@ Top Down 2D-HD-like game.
 <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PROJ/gameplay.gif" alt="screenshot of a game" width="100%"/>
 
 Notable features:
-- Powerful **editor tools** to streamline the asset creation process (E.g. a tool that slices spritesheets into unity tiles (static or animated) without overwritting underlying tile assets).
+- Binary-tree attack system with dynamic data-driven abilities switching.
+- Animation events system that can be defined anywhere in a Unity animation and can asynchronously call methods.
+- Ability cooldown system that uses the animation events to control attack states.
 
 
 ## Many, Many More Prototypes...
