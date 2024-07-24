@@ -6,6 +6,7 @@
 - Addressables and dynamic async loading
 - Input system in unity
 - Camera systems
+- Node-based procedural noise
 
 
 ## Block Creator
