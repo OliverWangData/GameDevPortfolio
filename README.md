@@ -9,6 +9,19 @@
 - Node-based procedural noise
 
 
+## Survivors Game
+High enemy / projectiles count survivors-like gameplay with overworld for effects and unlockables.
+
+<img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/world.png" alt="screenshot of a game" width="100%"/> 
+
+Notable features:
+- Unmanaged C#-based collision detection and resolving system that allows for thousands of objects to be colliding and interacting at the same time.
+<div align="center">
+  <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/physics.gif" alt="gif"/>
+  <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/projectiles.gif" alt="gif"/>
+</div>
+
+
 ## Block Creator
 Level creating / block placing tool with a cartoony art style.
 
@@ -25,19 +38,6 @@ Notable features:
 <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/SAND/nodebehaviour.png" alt="screenshot of a game" width="100%"/>
 <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/SAND/previewnight.png" alt="screenshot of a game" width="100%"/>
 <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/SAND/previewpink.png" alt="screenshot of a game" width="100%"/>
-
-
-## Survivors Game
-High enemy / projectiles count survivors-like gameplay with overworld for effects and unlockables.
-
-<img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/world.png" alt="screenshot of a game" width="100%"/> 
-
-Notable features:
-- Unmanaged C#-based collision detection and resolving system that allows for thousands of objects to be colliding and interacting at the same time.
-<div align="center">
-  <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/physics.gif" alt="gif"/>
-  <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/projectiles.gif" alt="gif"/>
-</div>
 
 
 ## Adventure Game
