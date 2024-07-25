@@ -1,6 +1,6 @@
 # Solo Game Development Portfolio
 
-## Common
+## Common Utility (Non-Visual)
 ### CSV data pipeline
 Low memory, no-garbage system that allows CSV data to be read and easily accesible in structs. This allows for error checking, easy auto-fill implementations in code, and allows designers to create content without adjusting the codebase.
 
