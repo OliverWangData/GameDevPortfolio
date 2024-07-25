@@ -16,7 +16,7 @@ System that keeps track and loads / unloads assets dynamically based on distance
 - Camera systems
 - 
 ### Dependency-Injection Based Architecture
-Many of these systems are written following principles of dependency injection. E.g. any data not authored by the current object is given to the object via constructors, or through the Editor, with very little hard-references. Most references are set up in a "boostrapping" class, which gives every class their dependencies. This gives classes less interconnectedness and the tradeoff is only the boostrapping classes have "hard" references. 
+Many of these systems are written following principles of dependency injection. E.g. any data not authored by the current object is given to the object via constructors, or through the Editor, in it' simplest form (Either the data itself, or the lowest point of reference if changing data is needed). Most references are set up in a "boostrapping" class, which gives every class their dependencies. This gives classes less interconnectedness and the tradeoff is only the boostrapping classes have "hard" references. 
 
 
 
