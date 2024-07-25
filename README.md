@@ -42,7 +42,7 @@ Notable features:
 <div align="center">
 <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/projectilescode.png" alt="screenshot"/>
 <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/conecode.png" alt="screenshot"/>
-<div align="center">
+</div>
 
 
 ## Block Creator
