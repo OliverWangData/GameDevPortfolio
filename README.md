@@ -1,7 +1,8 @@
 # Solo Game Development Portfolio
 
 ## Common
-- Notification system
+#Notification system
+Combines the well integrated UnityEvents (Or other native event systems) with C# delegates to create notifications that are easily callable and listenable both in code and using the editor.
 - CSV data pipeline
 - Addressables and dynamic async loading
 - Input system in unity
