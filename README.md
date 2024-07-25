@@ -37,8 +37,8 @@ Notable features:
 - Powerful and flexible entity behaviour and spawning system that allows mix-and-match behaviours based on simple interface classes.
 
 <div align="center">
-<img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/SAND/projectilescode.png" alt="screenshot"/>
-<img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/SAND/conecode.png" alt="screenshot"/>
+<img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/projectilescode.png" alt="screenshot"/>
+<img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/conecode.png" alt="screenshot"/>
 <div align="center">
 
 
