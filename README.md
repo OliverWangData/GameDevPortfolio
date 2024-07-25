@@ -10,11 +10,9 @@ Performant seed generated mathematical procedural noise library with common nois
 ### Notification system
 Combines the well integrated UnityEvents (Or other native event systems) with C# delegates to create notifications that are easily hookable, callable, and listenable both in code and using the editor.
 
-### Addressables and async world loading
-System that keeps track and loads / unloads assets dynamically based on distance to view frustum. 
+### Camera systems
+Intuitive camera systems for various 2D styles (Edge pan, drag pan, zoom, rotate, on-wheels carefully tuned camera positions, etc...) and 3D styles (Fps with camera effects like shakes and wobbles). 
 
-- Camera systems
-- 
 ### Dependency-Injection Based Architecture
 Many of these systems are written following principles of dependency injection. E.g. any data not authored by the current object is given to the object via constructors, or through the Editor, in it' simplest form (Either the immutable data itself, or the lowest point of reference if dynamically changing data is needed). Most references are set up in a "boostrapping" class, which gives every class their dependencies. This gives classes less interconnectedness and the tradeoff is only the boostrapping classes have "hard" references. 
 
