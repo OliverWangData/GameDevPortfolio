@@ -25,6 +25,11 @@ Notable features:
 <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/withoutrendering.png" alt="screenshot" width="100%"/>
 <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/withrendering.png" alt="screenshot" width="100%"/>
 
+- Shaders using custom HLSL procedural noise libraries or built in particles for effects such as wind.
+
+<img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/worldanim.gif" alt="gif" width="100%"/>
+
+
 ## Block Creator
 Level creating / block placing tool with a cartoony art style.
 
