@@ -71,6 +71,7 @@ Notable features:
 
 ## And Many, Many More Concepts And Prototypes...
 <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PROJ/gameplay.gif" alt="gif of a game" width="100%"/>
+
 ![screenshot of a game](https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/FLAT/preview.png)
 ![screenshot of a game](https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/FROG/preview.png)
 ![screenshot of a game](https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/HPCB/preview.png)
