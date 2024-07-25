@@ -1,13 +1,23 @@
 # Solo Game Development Portfolio
 
 ## Common
+### CSV data pipeline
+Low memory, no-garbage system that allows CSV data to be read and easily accesible in structs. This allows for error checking, easy auto-fill implementations in code, and allows designers to create content without adjusting the codebase.
+
+### Node-based procedural noise
+Performant seed generated mathematical procedural noise library with common noise patterns (random, perlin, voronoi, domain warp, fractal, etc...), almost any parameters for that noise (E.g. parameters as minute as changing the subdivision of random grid angles for generating perlin), and even algorithms on that noise (closest neighbour averaging, distance to cells, step / multistep, etc...). Written in shaders (Compute / HLSL), C#, and C++. The C# library allows for node-based creation and chaining of noise. This enables extremely fast prototyping of very complex noises. 
+
 ### Notification system
-Combines the well integrated UnityEvents (Or other native event systems) with C# delegates to create notifications that are easily callable and listenable both in code and using the editor.
-- CSV data pipeline
-- Addressables and dynamic async loading
-- Input system in unity
+Combines the well integrated UnityEvents (Or other native event systems) with C# delegates to create notifications that are easily hookable, callable, and listenable both in code and using the editor.
+
+### Addressables and async world loading
+System that keeps track and loads / unloads assets dynamically based on distance to view frustum. 
+
 - Camera systems
-- Node-based procedural noise
+- 
+### Dependency-Injection Based Architecture
+Many of these systems are written following principles of dependency injection. E.g. any data not authored by the current object is given to the object via constructors, or through the Editor. 
+
 
 
 ## Survivors Game
