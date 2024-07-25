@@ -34,6 +34,7 @@ Notable features:
 
 <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/pipeline.gif" alt="gif" width="100%"/>
 
+- Powerful and flexible entity behaviour and spawning system that allows mix-and-match behaviours based on simple interface classes.
 
 ## Block Creator
 Level creating / block placing tool with a cartoony art style.
