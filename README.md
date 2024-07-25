@@ -16,10 +16,9 @@ High enemy / projectiles count survivors-like gameplay with overworld for effect
 
 Notable features:
 - Unmanaged C#-based collision detection and resolving system that allows for thousands of objects to be colliding and interacting at the same time.
-<div align="center">
-  <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/physics.gif" alt="gif"/>
-  <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/projectiles.gif" alt="gif"/>
-</div>
+
+<img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/physics.gif" alt="gif" width="100%"/>
+<img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/projectiles.gif" alt="gif" width="100%"/>
 
 
 ## Block Creator
