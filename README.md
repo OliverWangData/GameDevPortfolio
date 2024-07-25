@@ -30,6 +30,10 @@ Notable features:
 <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/worldanim.gif" alt="gif" width="100%"/>
 <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/effects.gif" alt="gif" width="100%"/>
 
+- Streamlined asset pipeline where only csv data and the spritesheet asset can create a fully animated game-ready asset with movement / ai, physics, loot, and more. This is done using custom prefabs that can define anything and that are called using the csv data. Allows designers to set up new characters without having to touch the codebase or finick around in engine. 
+
+<img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/pipeline.gif" alt="gif" width="100%"/>
+
 
 ## Block Creator
 Level creating / block placing tool with a cartoony art style.
