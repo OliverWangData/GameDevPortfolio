@@ -25,11 +25,6 @@ Notable features:
 <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/withoutrendering.png" alt="screenshot" width="100%"/>
 <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/withrendering.png" alt="screenshot" width="100%"/>
 
-- Shaders using custom HLSL procedural noise libraries or built in particles for effects such as wind.
-
-<img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/worldanim.gif" alt="gif" width="100%"/>
-<img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/effects.gif" alt="gif" width="100%"/>
-
 - Streamlined asset pipeline where only csv data and the spritesheet asset can create a fully animated game-ready asset with movement / ai, physics, loot, and more. This is done using custom prefabs that can define anything and that are called using the csv data. Allows designers to set up new characters without having to touch the codebase or finick around in engine. 
 
 <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/pipeline.gif" alt="gif" width="100%"/>
@@ -43,6 +38,11 @@ Notable features:
 <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/projectilescode.png" alt="screenshot"/>
 <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/conecode.png" alt="screenshot"/>
 </div>
+
+- Shaders using custom HLSL procedural noise libraries or built in particles for effects such as wind.
+
+<img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/worldanim.gif" alt="gif" width="100%"/>
+<img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/effects.gif" alt="gif" width="100%"/>
 
 
 ## Block Creator
