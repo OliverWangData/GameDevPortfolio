@@ -35,8 +35,9 @@ Notable features:
 <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/pipeline.gif" alt="gif" width="100%"/>
 
 - Powerful and flexible entity behaviour and spawning system that allows mix-and-match behaviours based on simple interface classes. Examples of what it can do:
-  - Spawn bullets in any direction (cones, radially, sequentially, in parallel, etc...)
-  - Spawn bullets with any behaviour (homing towards target, circling a target or position, bouncing off entities
+  - Spawn bullets in any pattern (cones, radially, sequentially, in parallel, etc...)
+  - Spawn bullets with any behaviour (homing towards target, circling a target or position, bouncing off entities, oscillating between positions, etc...)
+  - Spawn enemies with any logic (Moving straight across the map, running towards player, dodging in patterns, etc...)
 
 <div align="center">
 <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/projectilescode.png" alt="screenshot"/>
