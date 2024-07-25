@@ -69,18 +69,8 @@ Notable features:
 </div>
 
 
-## Top Down Game
-Top Down 2D-HD-like game.
-
-<img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PROJ/gameplay.gif" alt="screenshot of a game" width="100%"/>
-
-Notable features:
-- Binary-tree attack system with dynamic data-driven abilities switching.
-- Animation events system that can do an asynchronous method callback on any frame of a unity animation.
-- Ability cooldown system that uses the animation events to control attack states.
-
-
 ## And Many, Many More Concepts And Prototypes...
+<img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PROJ/gameplay.gif" alt="gif of a game" width="100%"/>
 ![screenshot of a game](https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/FLAT/preview.png)
 ![screenshot of a game](https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/FROG/preview.png)
 ![screenshot of a game](https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/HPCB/preview.png)
