@@ -29,7 +29,7 @@ Notable features:
 <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/physics.gif" alt="gif" width="100%"/>
 <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/projectiles.gif" alt="gif" width="100%"/>
 
-- Tile-based tool for reproducible pseudo-random placement of assets. This can be used for GPU-based rendering to enable thousands of instanced assets without low performance impact.
+- Tile-based tool for reproducible pseudo-random placement of assets. This can be used for GPU-based rendering to enable thousands of instanced assets with low performance impact.
 
 <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/withoutrendering.png" alt="screenshot" width="100%"/>
 <img src="https://github.com/OliverWangData/GameDevPortfolio/blob/main/Projects/PYOK/withrendering.png" alt="screenshot" width="100%"/>
